@@ -21,3 +21,16 @@ body{
 .marquee-title {
 	color: fuchsia;
 }
+
+.presentation {
+	text-align: center;
+	color: yellow;
+}
+
+.titles {
+	background-color: purple;
+}
+
+.content {
+	text-align: left;
+}
