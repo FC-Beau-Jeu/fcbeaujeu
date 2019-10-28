@@ -34,3 +34,20 @@ body{
 .content {
 	text-align: left;
 }
+
+.row {
+	display: flex;
+}
+
+.column {
+	flex: 75%;
+}
+
+a {
+	color: fuchsia;
+	text-decoration: none;
+}
+
+a:hover {
+	color: whitesmoke;
+}
