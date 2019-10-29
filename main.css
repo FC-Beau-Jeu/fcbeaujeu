@@ -35,19 +35,28 @@ body{
 	text-align: left;
 }
 
-.row {
-	display: flex;
-}
-
-.column {
-	flex: 75%;
-}
-
 a {
-	color: fuchsia;
+	color: yellow;
 	text-decoration: none;
 }
 
 a:hover {
-	color: whitesmoke;
+	color: lightgreen;
+	text-decoration: none;
+}
+
+.ad {
+	padding-bottom: 3%;
+	padding-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: yellow;
+	background-color: purple;
 }
