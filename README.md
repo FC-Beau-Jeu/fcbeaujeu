@@ -8,6 +8,8 @@ The official website for the FC Beau Jeu. It contains our core values and some a
 Links
 -----
 
-Instagram: [https://www.instagram.com/fcbeaujeu/](https://www.instagram.com/fcbeaujeu/)
+[Website](fcbeauj.eu)
 
-Youtube: [https://www.youtube.com/channel/UCq4\_F4xIETKc1k30slqV5mw](https://www.youtube.com/channel/UCq4_F4xIETKc1k30slqV5mw)
+[Instagram](https://www.instagram.com/fcbeaujeu/)
+
+[Youtube](https://www.youtube.com/channel/UCq4_F4xIETKc1k30slqV5mw)
