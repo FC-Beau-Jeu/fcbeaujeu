@@ -9,3 +9,5 @@ Links
 -----
 
 Instagram: [https://www.instagram.com/fcbeaujeu/](https://www.instagram.com/fcbeaujeu/)
+
+Youtube: [https://www.youtube.com/channel/UCq4\_F4xIETKc1k30slqV5mw](https://www.youtube.com/channel/UCq4_F4xIETKc1k30slqV5mw)
