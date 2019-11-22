@@ -1,19 +1,10 @@
-html {
-	height: 100%;
-	width: 100%;
-}
-
 body{
-	height: 100%;
-	width: 100%;
 	background-image: url("images/feutrine.jpg");
 	background-position: center;
-	background-size: cover;
+	background-size: repeat;
 }
 
 #background {
-	height: 100%;
-	width: 100%;
 	background-image: url("logos/fcbeaujeu.png");
 	background-size: 120px auto;
 }
