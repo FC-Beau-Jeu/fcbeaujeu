@@ -1,3 +1,8 @@
+@font-face {
+	font-family: comic-local;
+	src: url(fonts/comic.ttf);
+}
+
 body{
 	background-image: url("images/feutrine.jpg");
 	background-position: center;
@@ -24,7 +29,7 @@ body{
 
 .content {
 	text-align: left;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: comic-local, cursive;
 }
 
 a {
